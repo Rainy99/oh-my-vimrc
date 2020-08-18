@@ -4,5 +4,5 @@ My vim config
 
 ```
 $ cd
-$ curl -O https://raw.githubusercontent.com/Rainy99/oh-my-vimrc/master/.vimrc
+$ curl -O https://cdn.jsdelivr.net/gh/rainy99/oh-my-vimrc@master/.vimrc
 ```
